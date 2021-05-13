@@ -86,7 +86,7 @@ const reduce = function (collection, iterator, accumulator) {
  return accumulator;
 };
 
-// this is a test to push the homework
+// this is a homework
 
 
 
