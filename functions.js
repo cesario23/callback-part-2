@@ -86,6 +86,10 @@ const reduce = function (collection, iterator, accumulator) {
  return accumulator;
 };
 
+// this is a test to push the homework
+
+
+
 module.exports = {
   filter,
   reject,
